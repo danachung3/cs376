@@ -10,21 +10,8 @@ Bad design is found throughout Williams. An example of bad design that students 
 
 ![Window](/img/IMG_3036.jpeg)
 
+If I wanted to open the window of the dorm, I have to go through a series of unintuitive steps. First, I would have to raise the blinds all the way to the top of the window as can be seen in the photos. Then I would have to open the screen by pulling on the handle such that it would open like a door. Then, I would have to open the window by pushing on the window itself.
 
+This is a poor example of window design at Williams because 1) most people are too short to close the blinds/raise the blinds to the top of the window 2) the ability to open the screen door is hindered by the metal bar, making only a narrow opening for a hand to open the window itself 3) the unintuitive design is a hazard in case of emergency. See more image below.
 
-
-
-
-
-
-
-If I wanted to open the window of the dorm, I would have to raise the blinds all the way to the top as pictured below. Then I would have to open the screen by pulling on the handle such that it would open like a door. Then, I would have to open the window by pushing on the window itself.
-
-This is a poor example of window design at Williams because
-
-peace love and computer science
-
-
-
-
-n our PeopleSoft website. The images below show how inconvenient and unintuitive the website is. For example, if I wanted to add money to my account to do laundry, there is no clear way to do that. To add points on to your card,
+![Window](/img/IMG_3038.jpeg)
