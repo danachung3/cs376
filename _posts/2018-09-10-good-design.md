@@ -2,7 +2,6 @@
 layout: post
 title: Good Designs Found at Williams College
 subtitle: Safety first!
-image: /img/hello_world.jpeg
 tags: [first project]
 ---
 
@@ -10,7 +9,7 @@ Williams College recently opened a brand new science building this year. As I wa
 
 ![Shower](/img/IMG_3041.jpeg)
 
-It is clear after just glancing at the signs that the eyewash is used by pulling open a drawer/lever and the shower is operated by pulling down the lever. See images below. The images on the signs are unambiguous as the diagrams are large and there is minimal text. The clean design of the sign and emergency equipment make it easy to know how to operate, especially in emergency cases.
+It is clear after just glancing at the signs that the eyewash is used by pulling open a drawer/lever and the shower is operated by pulling down the lever. See images below. The images on the signs are unambiguous as the diagrams are large and there is minimal text. The clean design of the sign and emergency equipment make it easy to know how to operate the life saving equipment, especially in emergency cases.
 
 ![Shower](/img/IMG_3042.jpeg)
 
