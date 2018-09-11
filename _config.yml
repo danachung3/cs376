@@ -43,14 +43,14 @@ navbar-links:
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#005580"
-navbar-text-col: "#ffffff"
+navbar-text-col: "#005580"
 navbar-children-col: "#ffffff"
 page-col: "#ccffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#005580"
+footer-text-col: "#005580"
+footer-link-col: "#005580"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -70,12 +70,12 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-  rss: true
-  email: "dhc1@williams.edu"
-  facebook: danachung3
-  github: danachung3
-  twitter: danachung3
+#social-network-links:
+#  rss: true
+#  email: "dhc1@williams.edu"
+#  facebook: danachung3
+#  github: danachung3
+#  twitter: danachung3
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
