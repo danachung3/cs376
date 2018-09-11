@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Good Designs at Williams
-subtitle: Safety! 
+subtitle: Safety!
 image: /img/hello_world.jpeg
+tags: [first project]
 ---
 
 This is an example of good design that can be found at Williams
