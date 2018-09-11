@@ -1,9 +1,22 @@
 ---
 layout: post
-title: Bad designs at Williams
+title: Bad Designs Found at Williams College
+subtitle: Unintuitive windows...
+tags: [first project]
 ---
 
-Bad design is found throughout Williams. An example of bad design that students encounter at Williams can be found in Horn Hall dorm room. The images below show how inconvenient and unintuitive it is to open a window in Horn.
+Bad design is found throughout Williams. An example of bad design that students encounter at Williams can be found in the Horn Hall dorms. The images below show how inconvenient and unintuitive it is to open a window in Horn:
+
+
+![Window](/img/IMG_3036.jpeg)
+
+
+
+
+
+
+
+
 
 If I wanted to open the window of the dorm, I would have to raise the blinds all the way to the top as pictured below. Then I would have to open the screen by pulling on the handle such that it would open like a door. Then, I would have to open the window by pushing on the window itself.
 

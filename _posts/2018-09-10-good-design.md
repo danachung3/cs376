@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Good Designs at Williams
-subtitle: Safety!
+title: Good Designs Found at Williams College
+subtitle: Safety first! 
 image: /img/hello_world.jpeg
 tags: [first project]
 ---
