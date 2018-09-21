@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Proposal
-subtitle: A project idea for MuseTech
+title: VMuse
+subtitle: A project idea for WCMA using MuseTech and Virtual Reality 
 tags: [Project Proposal]
 ---
 
