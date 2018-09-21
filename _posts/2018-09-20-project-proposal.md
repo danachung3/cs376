@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VMuse
-subtitle: A project idea for WCMA using MuseTech and Virtual Reality 
+subtitle: A project idea for WCMA using MuseTech and Virtual Reality
 tags: [Project Proposal]
 ---
 
@@ -15,11 +15,10 @@ Inspiration for this project comes the virtual reality room found in Sawyer Libr
 
 A virtual reality version of the museum allows users to interact with the museum as if they are walking through a real museum. They can visit old exhibits, new exhibits or even view random pieces. The virtual reality museum will utilize WCMA's extensive online art and data collections and allow users to experience art in an intimate environment (See Figure 1). This virtual museum allows curators to showcase more exhibits and collaborations and allow the visitors to interact with the pieces at anytime.
 
+The idea for this project falls under the following MuseTech sub-topics: Escaping the Museum, Museum Connections, Museum of the Future, Visitor Experiences.
+
 ![Virtual](/img/virtual_reality.jpg)
 
 Figure 1: A visitor engaging with virtual reality at a Museum
 
 Source: <https://observer.com/2015/10/how-one-artist-uses-reality-as-her-medium/>
-
-
-The idea for this project falls under the following MuseTech sub-topics: Escaping the Museum, Museum Connections, Museum of the Future, Visitor Experiences.
