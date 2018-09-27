@@ -24,6 +24,7 @@ description: Welcome to Dana's project webpage for CS 376!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Group Project Website: "https://museumsforall.github.io/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
