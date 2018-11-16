@@ -11,5 +11,5 @@ Although this paper focuses on online peer learning systems in an educational/cl
 
 Works Cited: 
 
-Kotturi, Yasmine et al. “Structure and messaging techniques for online peer learning systems that increase stickiness.” L@S (2015).
+Yasmine Kotturi, Chinmay E Kulkarni, Michael S Bernstein, and Scott Klemmer. 2015. Structure and messaging techniques for online peer learning systems that increase stickiness. In Proceedings of the Second (2015) ACM Conference on Learning@ Scale. ACM,31–38.
 
