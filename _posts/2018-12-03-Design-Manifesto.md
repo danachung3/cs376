@@ -11,7 +11,7 @@ Before enrolling in CS 376: Human Computer Interaction, I did not realize the ex
 
 For the course of the semester, I had the opportunity to work with a phenomenal team to develop a new project for WCMA that improves visitor accessibility. Museums are often inaccessible to people of color and there is a lack of awareness and conversation around the exhibits and art at WCMA. Our team developed Museums for All to solve this problem and make museums more accessible for a wider group of visitors. 
 
-We researched the problem by holding research sessions with Williams College students and staff members from WCMA. Through our design process and research session, we had to start over, change ideas and constantly brainstorm to make a feasible solution that will change the museum experience (Link to our project website is [here](https://museumsforall.github.io/). 
+We researched the problem by holding research sessions with Williams College students and staff members from WCMA. Through our design process and research session, we had to start over, change ideas and constantly brainstorm to make a feasible solution that will change the museum experience (Link to our project website is [here](https://museumsforall.github.io/)). 
 
 As a result, the complex design process I worked through over the course of the semester taught me a lot. As a result, I can list 5 principles that have resulted my experience in design. These principles result from our design experience and class lectures/readings. They permanently change my perspective on the design process and will be applicable to any design process. These principles are extremely useful for the next time I have to approach the design process.  
 
@@ -44,16 +44,16 @@ Throughout the semester we had the opportunity to work in teams to design projec
 
 If you were to design a product for users but no one was able to use it then it would be pointless to design the product in the first place. This is an extremely important fact that was stressed throughout our readings. In “The Design of Everyday Things” the idea of accessibility is stressed in multiple chapters. To sum it up, “good design requires good communication, especially from machine to person, indicating what actions are possible, what is happening and what is about to happen” (Norman, Don, “The Design of Everyday Things”).
 
-In another one of our readings, we read the key components, Do’s and don’ts when designing for accessibility. The graphics in these readings were incredibly helpful when we were designing our projects and can be viewed below: 
+In another one of our readings, we read the key components, Do’s and don’ts when designing for accessibility. The graphics in these readings were incredibly helpful when we were designing our projects and a select few can be viewed below: 
 
-INSERT IMAGES 
+![image](/img/accessibility1.png) ![image](/img/accessibility2.png) ![image](/img/accessibility3.png) 
 
 These graphics are very helpful and easy to reference when designing because they are grouped by disability or problems users many have that might affect the usability of the product you are designing. 
 
 
 ### 4.	Determine a Personal Code of Ethics 
 
-When designing new products, it is very easy to get carried away with technology, innovation and creativity to the point where users are forgotten and ethics are not followed. After designing with my project team for the duration of the semester, we learned the importance of changing design ideas if the design does not actually solve the problem for users. As mentioned previously, we initially designed a discussion forum to solve the problem of accessibility for users at WCMA. However, we realized only AFTER receiving feedback and criticism that the design does not actually solve any problems but instead they potentially make accessibility problems worse. As a result, we learned the importance of always keeping the user in mind and being open to criticism. We then changed our design to a unique museum installation (more can be read about the new design HERE) and found that this design is a much better solution for users. 
+When designing new products, it is very easy to get carried away with technology, innovation and creativity to the point where users are forgotten and ethics are not followed. After designing with my project team for the duration of the semester, we learned the importance of changing design ideas if the design does not actually solve the problem for users (Read about our inital design [here](https://museumsforall.github.io/2018-10-22-Project-Design-Review/). As mentioned previously, we initially designed a discussion forum to solve the problem of accessibility for users at WCMA. However, we realized only AFTER receiving feedback and criticism that the design, which was only a discussion board, does not actually solve any problems but instead they potentially make accessibility problems worse. As a result, we learned the importance of always keeping the user in mind and being open to criticism. We then changed our design to a unique museum installation (more can be read about the new design [here](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/)) and found that this design is a much better solution for users. 
 
 This experience has helped me determine my OWN personal code of ethics. It is important for everyone to find discover own, especially before designing. The top three points of my personal code of ethics are outlined below: 
 
@@ -65,7 +65,7 @@ These are just a few takeaway points from my view on ethics when it comes to des
 
 ### 5.	Don’t be afraid to start over 
 
-As mentioned numerous times throughout this manifesto, my experience in HCI has required lots of iteration, teamwork and collaboration to create a product that actually solves problems. This policy is very basic, but it shows that if leaps of faith are taken, hard work pays off and you will be rewarded with a design that you are proud of, especially if it is useful and solves problems. Read more about our design change struggles HERE).   
+As mentioned numerous times throughout this manifesto, my experience in HCI has required lots of iteration, teamwork and collaboration to create a product that actually solves problems. This policy is very basic, but it shows that if leaps of faith are taken, hard work pays off and you will be rewarded with a design that you are proud of, especially if it is useful and solves problems. Read more about our design change struggles and decision to revise our design [here](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/).   
 
 # Conclusion 
 
