@@ -20,9 +20,13 @@ As a result, the complex design process I worked through over the course of the 
 One of the most important topics we covered in class that is the most essential fact to remember when starting the design process is that you are NOT the user. From our readings the very first week of class, human-centered design requires that the designer has a good understanding of psychology and technology. 
 
 According to Conceptual Design, there are 4 key principles of conceptual design (“Conceptual Design: Moving from Requirements to First Design”): 
+
 1)	Keep an open mind but NEVER forget the users and their context 
+
 2)	Discuss Ideas with other Stakeholders as much as possible
+
 3)	Use low-fidelity prototyping to get rapid feedback 
+
 4)	Iterate, iterate, iterate 
 
 These 4 key principles of conceptual design are extremely important to keep in mind, as I learned throughout this design process. It allows for designers to truly identify a problem and determine a feasible solution. 
@@ -34,7 +38,7 @@ We spent a whole week reading and learning about the importance of brainstorming
 
 Throughout the semester we had the opportunity to work in teams to design projects to improve accessibility at WCMA. By working with teams, we were able to come up with ideas that would uniquely solve a communication and accessibility visitors at WCMA were facing. In class we had the opportunity to learn and implement Affinity Diagrams that show the scope of user problems and potential solutions. The power of collaborating with others was essential when brainstorming the Affinity Diagram and eventually Waling the Affinity diagram. The Affinity diagram is structure to tell the story of customers to highlight common issues, themes and key elements that are relevant to the team’s focus. Without working with two other people, these brainstorming ideas definitely would not have been the same if only one person was working on it. More can be read [here](https://museumsforall.github.io/2018-10-22-Project-Design-Review/) about my team’s brainstorming process and read [here](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/) about my team's affinity diagram process. See below for an image of our affinity diagram, created only after collaboration and ideas of three different people contributed ideas: 
 
-![image](/img/affinity.jpeg) 
+![image](/img/affinity.JPG) 
 
 ### 3.	Always remember accessibility 
 
